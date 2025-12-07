@@ -1,0 +1,25 @@
+============================================================
+RÉSULTATS DU CLUSTERING DES CHIFFRES
+============================================================
+
+SANS PCA:
+  Précision brute: 1.73%
+  Gain après Hungarian: 59.15%
+
+  Précision: 60.88%
+  Précision moyenne: 61.61%
+  Rappel moyen: 60.85%
+  F1-score moyen: 58.69%
+
+AVEC PCA (95% variance):
+  Précision brute: 1.56%
+  Gain après Hungarian: 57.32%
+
+  Précision: 58.88%
+  Précision moyenne: 59.82%
+  Rappel moyen: 58.86%
+  F1-score moyen: 56.77%
+
+AMÉLIORATION:
+  Différence: -2.00%
+  ⚠️  PCA ne améliore pas les performances

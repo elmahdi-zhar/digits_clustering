@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data
+data/
+*.csv
+*.xlsx
+
+# Reports / figures
+reports/figures/
+
+# PyCharm files
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
