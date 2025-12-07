@@ -9,4 +9,5 @@ Ce projet démontre l'utilisation de l'algorithme K-Means pour regrouper automat
 3. Résoudre le problème de correspondance des labels
 4. Évaluer les performances du clustering
 
-## 🏗Structure du projet
+
+
